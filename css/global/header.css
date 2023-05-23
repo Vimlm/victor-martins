@@ -1,7 +1,7 @@
 /* Header */
 .header {
   background: var(--wb-12);
-  padding: 10px 100px;
+  padding: 16px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -37,7 +37,6 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 60px;
-  text-transform: uppercase;
   letter-spacing: 2px;
   transform: .3s;
 }
