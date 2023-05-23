@@ -27,3 +27,17 @@ button {
   background: var();
 }
 
+.redes {
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  gap: 60px;
+  place-content: center;
+  margin-bottom: 30px;
+  transition: .3s;
+}
+
+.redes img {
+  display: inline-block;
+  max-width: 100%;
+}
+
