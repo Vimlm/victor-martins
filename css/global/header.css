@@ -1,0 +1,43 @@
+/* Header */
+.header {
+  background: var(--wb-12);
+  padding: 10px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.header ul a {
+  color: var(--wb-00);
+  font-size: 20px;
+  display: inline-block;
+  padding: 16px 0;
+  position: relative;
+}
+
+.header ul a:after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 0px;
+  background: var(--wb-00);
+  margin-top: 4px;
+  transition: 0.3s;
+  position: absolute;
+}
+
+.header ul a:hover:after {
+  width: 100%;
+}
+
+/* Menu */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transform: .3s;
+}

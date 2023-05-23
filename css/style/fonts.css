@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Roboto:wght@100;300;400;500&display=swap');
+
+
+.major {
+  font: 400 1rem/1.2 'Major Mono Display', monospace;
+}
+
+.r-l {
+  font: 100 1rem/1.2 'Roboto', sans-serif;
+}
+
+.r-sr {
+  font-family: 'Roboto', sans-serif;
+  font: 300 1.1rem/1.2 'Roboto', sans-serif;
+}
+
+.r-r {
+  font-family: 'Roboto', sans-serif;
+  font: 400 1.2rem/1.2 'Roboto', sans-serif;
+}
+
+.r-b {
+  font-family: 'Roboto', sans-serif;
+  font: 500 1.3rem/1.2 'Roboto', sans-serif;
+}

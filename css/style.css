@@ -1,5 +1,16 @@
-@import url(global.css);
-@import url(home.css);
-@import url(about.css);
-@import url(contact.css);
-@import url(hobbies.css);
+/* Global Imports */
+@import url(global/global.css);
+@import url(global/componentes.css);
+@import url(style/cores.css);
+@import url(style/fonts.css);
+
+/* Header and Footer */
+@import url(global/header.css);
+@import url(global/footer.css);
+
+
+/* Pages Imports */
+@import url(pages/home.css);
+@import url(pages/about.css);
+@import url(pages/contact.css);
+@import url(pages/hobbies.css);

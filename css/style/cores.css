@@ -16,10 +16,10 @@
 
 /* Utilitários para HTML */
 
-.c-black {
+.c-b {
   color: var(--wb-12);
 }
-.c-white {
+.c-w {
   color: var(--wb-00);
 }
 .wb-11 {
