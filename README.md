@@ -2,6 +2,8 @@
 
 Este é um projeto de exemplo que utiliza os conceitos de flexbox e media query para criar layouts responsivos em HTML e CSS. O objetivo é demonstrar como é possível criar designs flexíveis que se adaptam a diferentes tamanhos de tela, além de incluir a navegação entre páginas.
 
+Para acessar o projeto acesse: https://vimlm.github.io/victor-martins/
+
 ## Estrutura de diretórios
 
 O projeto está organizado da seguinte forma:
