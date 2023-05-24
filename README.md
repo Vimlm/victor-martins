@@ -1,4 +1,6 @@
-# Projeto HTML e CSS com Flexbox e Media Query
+# Projeto Pessoal Victor Martins
+
+## Conceitos trabalhados HTML e CSS com Flexbox e Media Query
 
 Este é um projeto de exemplo que utiliza os conceitos de flexbox e media query para criar layouts responsivos em HTML e CSS. O objetivo é demonstrar como é possível criar designs flexíveis que se adaptam a diferentes tamanhos de tela, além de incluir a navegação entre páginas.
 
