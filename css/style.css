@@ -13,3 +13,8 @@
 @import url(pages/about.css);
 @import url(pages/contact.css);
 @import url(pages/hobbies.css);
+
+/* Responsibility */
+@import url(responsibility/global.responsibility.css);
+@import url(responsibility/about.responsibility.css);
+@import url(responsibility/contact.responsibility.css);

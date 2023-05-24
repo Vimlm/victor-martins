@@ -36,6 +36,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 10px;
   gap: 60px;
   letter-spacing: 2px;
   transform: .3s;

@@ -30,7 +30,7 @@ a {
 
 .intro-bg {
   background: var(--wb-12);
-  height: 778px;
+  height: 758px;
   max-height: 100%;
   box-shadow: inset 0px -220px var(--wb-00);
   display: grid;

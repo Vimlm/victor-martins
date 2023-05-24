@@ -1,0 +1,23 @@
+@media screen and (max-width: 815px) {
+  .contact-res {
+    display: none !important;
+  }
+  .formulario {
+    padding-top: 20px;
+    width: 500px;
+  }
+}
+
+@media screen and (max-width: 515px) {
+  .contact-res {
+    display: none !important;
+  }
+  .formulario {
+    padding-top: 10px;
+    width: 350px;
+  }
+
+  .redes {
+    margin-bottom: 0;
+  }
+}

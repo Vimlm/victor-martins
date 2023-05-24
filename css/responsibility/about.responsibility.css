@@ -1,0 +1,40 @@
+@media screen and (max-width: 815px) {
+  .about-container-res {
+    flex-direction: column-reverse;
+    justify-content: start;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .introducao {
+    gap: 20px;
+  }
+
+  .introducao h1 {
+    font-size: 32px;
+  }
+
+  .introducao p {
+    font-size: 20px;
+  }
+
+  section .about-img-res {
+    max-width: auto;
+    height: 400px;
+    object-fit: cover;
+    transform: rotate(0deg);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container img {
+    max-width: auto;
+  }
+
+}
+
+@media screen and (max-width: 515px) {
+  .container img {
+    display: none;
+  }
+}
